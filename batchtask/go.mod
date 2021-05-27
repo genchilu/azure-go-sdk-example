@@ -10,5 +10,5 @@ require (
 	github.com/Azure/go-autorest/autorest/validation v0.3.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
-	github.com/marstr/randname v0.0.0-20181206212954-d5b0f288ab8c
+	github.com/google/uuid v1.2.0
 )
